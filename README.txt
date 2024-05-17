@@ -1,16 +1,9 @@
-*** CS566 Parallel Processing *** Assignment 4 ***
-
 Name: Zohair Hashmi
-UIN: 668913771
-Date: 4/12/2024
 
 System:
 GPU NVIDA GeForce GTX 1050
 Build cuda_12.4.r12.4/compiler.33961263_0
 OS: Windows 11 Home 64-bit
-
-* NOTE: Since my system supports CUDA programming with integrated NVIDIA GPU,
-I have used the same for this assignment.
 
 Steps to run the code:
 1. Open the terminal
@@ -18,7 +11,7 @@ Steps to run the code:
 3. Run the following commands:
     nvcc <input_file_name>.cu -o <output_file_name>
     ./<output_file_name>
-*/
+
 
 Experimental Results:
 ```
